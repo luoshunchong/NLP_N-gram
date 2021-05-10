@@ -1,4 +1,7 @@
 # NLP_N-gram
+
+**本文部分代码有借鉴https://blog.csdn.net/qq_34307082/article/details/106431277（N-Gram 分词算法 Python 实现）博客。感谢这篇博客作者的无私分享，支持原作者！！！**
+
 ## 分词
 
 文件介绍：
@@ -53,3 +56,7 @@ Output: ['ab','bc','cd']
 
 
 打开两个txt文件，依次读入将test.txt文件的行，将第二列作为函数slide_word的输入。
+
+
+
+**如有侵权，请联系我删！！！**
