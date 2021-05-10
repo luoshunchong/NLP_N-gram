@@ -1,6 +1,6 @@
 # NLP_N-gram
 
-**本文部分代码有借鉴https://blog.csdn.net/qq_34307082/article/details/106431277（N-Gram 分词算法 Python 实现）博客。感谢这篇博客作者的无私分享，支持原作者！！！**
+**本文部分代码有借鉴https://blog.csdn.net/qq_34307082/article/details/106431277 （N-Gram 分词算法 Python 实现）博客。感谢这篇博客作者的无私分享，支持原作者！！！**
 
 ## 分词
 
